@@ -32,7 +32,7 @@ Soy un estudiante de Ingeniería en Computación en constante evolución, combin
 
 🎯 **#CodeQuest** – Un reto de programación diario  
 📅 **Frecuencia:** Lunes, miércoles y viernes  
-📂 **Repositorio:** [Retos de Programación](https://github.com/tu-usuario/retos-programacion)
+📂 **Repositorio:** [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion)
 
 ---
 
