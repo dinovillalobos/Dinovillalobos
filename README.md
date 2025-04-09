@@ -1,6 +1,6 @@
 <!-- Banner estilo Game Dev -->
 <p align="center">
-  <img src="https://github.com/dinovillalobos/Retos_Programacion/blob/07143272f4ea143039a0498f603dc21d8ac60187/Imgenes/bannerPrincipal.png" alt="Banner retro Game Dev Ricardo" />
+  <img src="https://github.com/dinovillalobos/Retos_Programacion/blob/4643a7241b9f69605dc40f0d453423220d0364ab/Imgenes/BANNER_RICARDO_DOMINGUEZ_VILLALOBOS.png" alt="Banner retro Game Dev Ricardo" />
 </p>
 
 <h1 align="center">🎮 RICARDO DOMÍNGUEZ VILLALOBOS</h1>
