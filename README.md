@@ -1,6 +1,6 @@
 <!-- Banner estilo Game Dev -->
 <p align="center">
-  <img src="https://i.imgur.com/Oi1Cyzf.png" alt="Banner retro Game Dev Ricardo" />
+  <img src="https://github.com/dinovillalobos/Retos_Programacion/blob/07143272f4ea143039a0498f603dc21d8ac60187/Imgenes/bannerPrincipal.png" alt="Banner retro Game Dev Ricardo" />
 </p>
 
 <h1 align="center">🎮 RICARDO DOMÍNGUEZ VILLALOBOS</h1>
@@ -60,8 +60,10 @@ Soy un estudiante de Ingeniería en Computación en constante evolución, combin
 > ¿Ideas para colaborar en una app o juego?
 
 📧 villalobosdoricardo@gmail.com 
+
 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-dominguez-devvideojuegos/)
-🕹️ [Itch.io / Juegos](https://itch.io) *(si llegas a subir tus juegos luego)*
+
+🕹️ [Itch.io / Juegos](https://itch.io) *(aun no subo mi juegos)*
 
 ---
 
