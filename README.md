@@ -30,9 +30,18 @@ Soy un estudiante de Ingeniería en Computación en constante evolución, combin
 
 ## 🔥 Retos activos
 
-🎯 **#CodeQuest** – Un reto de programación diario  
-📅 **Frecuencia:** Lunes, miércoles y viernes  
-📂 **Repositorio:** [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion)
+🎯 **CodeQuest** – Un reto de programación diario <br>
+  - 📅 **Frecuencia:** Lunes, miércoles y viernes <br>
+  - 📂 **Repositorio:** [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion) <br>
+  
+🧩 **Pentest4U** - Portafolio Ciberseguridad (en desarrollo) <br>
+
+🔐 **CyberChallenge** – Retos de ciberseguridad con prácticas en MongoDB y Node.js <br>
+  - 📅 **Frecuencia:** Lunes, miércoles y viernes <br>
+  - 📂 **Repositorio:** Pentest4U <br>
+  
+🍔 **TacoApp** – Proyecto en Flutter + Firebase para gestión de pedidos en taquerías  <br>
+  - 📂**Repositorio:** TacoApp (en desarrollo)  <br>
 
 ---
 
@@ -42,15 +51,18 @@ Soy un estudiante de Ingeniería en Computación en constante evolución, combin
 - 📦 _Folder Master_ – Repos bien organizados
 - 🎯 _Reflexive Dev_ – Documentación + reflexión por nivel
 - 📝 _README Lord_ – Descripciones épicas para cada misión
+- 🛠️ _Vulnerability Seeker_ – App vulnerable construida y documentada
+- 🧱 _Builder of Systems_ – Diseño de apps educativas con propósito
 
 ---
 
 ## 🚀 Próximas misiones
 
-- Implementar tests automáticos con `pytest`
-- Construir APIs REST seguras
-- Crear una app de entrenamiento gamificada
+- Publicar juegos en Itch.io
+- Integrar Firebase con roles personalizados en apps móviles
+- Finalizar sitio one-page de Pentest4U
 - Participar en competencias de CTF
+- Optimizar backend para sistema de pedidos en taquerías
 
 ---
 
