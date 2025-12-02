@@ -1,86 +1,28 @@
-<!-- Banner estilo Game Dev -->
-<p align="center">
-  <img src="https://github.com/dinovillalobos/Retos_Programacion/blob/4643a7241b9f69605dc40f0d453423220d0364ab/Imgenes/BANNER_RICARDO_DOMINGUEZ_VILLALOBOS.png" alt="Banner retro Game Dev Ricardo" />
-</p>
+### Hola, soy un Ingeniero en Computación apasionado por crear experiencias 👾
 
-<h1 align="center">🎮 RICARDO DOMÍNGUEZ VILLALOBOS</h1>
-<h3 align="center">Codificador en progreso — Nivelando habilidades todos los días ⚔️</h3>
+**Fullstack Developer | Game Dev | Python & AI Enthusiast**
 
----
+Soy un ingeniero enfocado en resolver problemas complejos a través del código. Mi pasión es la intersección entre el desarrollo de software robusto y la interactividad de los videojuegos.
 
-## 📖 Historia del personaje
-
-Soy un estudiante de Ingeniería en Computación en constante evolución, combinando mis habilidades en **desarrollo de videojuegos**, **apps móviles**, y **ciberseguridad**. Me gusta convertir el aprendizaje en una experiencia tipo juego, donde cada proyecto es una misión, cada error una batalla, y cada solución un logro desbloqueado.
-
-> _“No quiero solo programar. Quiero dejar mi huella en código limpio y con propósito.”_
+- 🔭 **Actualmente trabajando en:** Proyectos Fullstack y prototipos en Unity.
+- 🌱 **Aprendiendo:** Profundizando en Inteligencia Artificial aplicada a entornos interactivos.
+- 🎮 **Dato curioso:** El desarrollo de videojuegos no es solo mi trabajo, es mi laboratorio personal donde experimento con nuevas lógicas y físicas.
 
 ---
 
-## 🧩 Habilidades desbloqueadas
+### 🛠️ Mi Caja de Herramientas (Tech Stack)
 
-- 🐍 Python – Automatización, scripts y lógica pura
-- 🛡️ Seguridad Informática – Curso CISCO y prácticas con vulnerabilidades
-- 🎮 Unity + C# – Juegos 2D y sistemas de física
-- 📱 Flutter – Desarrollo móvil multiplataforma
-- 🌐 HTML, CSS, JavaScript – Estructura y diseño web
-- ☁️ Git, GitHub – Control de versiones y colaboración
-- 🧠 Metodologías de estudio por niveles (GameDev-Style)
+**Core & Backend:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
----
+**Game Dev & Visual:**
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 🔥 Retos activos
-
-🎯 **CodeQuest** – Un reto de programación diario <br>
-  - 📅 **Frecuencia:** Lunes, miércoles y viernes <br>
-  - 📂 **Repositorio:** [Retos de Programación](https://github.com/dinovillalobos/Retos_Programacion) <br>
-  
-🧩 **Pentest4U** - Portafolio Ciberseguridad (en desarrollo) <br>
-
-🔐 **CyberChallenge** – Retos de ciberseguridad con prácticas en MongoDB y Node.js <br>
-  - 📅 **Frecuencia:** Lunes, miércoles y viernes <br>
-  - 📂 **Repositorio:** Pentest4U <br>
-  
-🍔 **TacoApp** – Proyecto en Flutter + Firebase para gestión de pedidos en taquerías  <br>
-  - 📂**Repositorio:** TacoApp (en desarrollo)  <br>
+**Intereses Futuros:**
+![AI](https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-## 🕹️ Logros desbloqueados
-
-- 🧠 _Clean Coder_ – Código legible y modular
-- 📦 _Folder Master_ – Repos bien organizados
-- 🎯 _Reflexive Dev_ – Documentación + reflexión por nivel
-- 📝 _README Lord_ – Descripciones épicas para cada misión
-- 🛠️ _Vulnerability Seeker_ – App vulnerable construida y documentada
-- 🧱 _Builder of Systems_ – Diseño de apps educativas con propósito
-
----
-
-## 🚀 Próximas misiones
-
-- Publicar juegos en Itch.io
-- Integrar Firebase con roles personalizados en apps móviles
-- Finalizar sitio one-page de Pentest4U
-- Participar en competencias de CTF
-- Optimizar backend para sistema de pedidos en taquerías
-
----
-
-## 📬 Contacto
-
-> ¿Aliado para una Party de Código?  
-> ¿Ideas para colaborar en una app o juego?
-
-📧 villalobosdoricardo@gmail.com 
-
-💼 [LinkedIn](https://www.linkedin.com/in/ricardo-dominguez-devvideojuegos/)
-
-🕹️ [Itch.io / Juegos](https://itch.io) *(aun no subo mi juegos)*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/8UGoFkuP8aNQk/giphy.gif" width="200px"/>
-  <br><i>"Start your journey. Level up with each line of code."</i>
-</p>
 
