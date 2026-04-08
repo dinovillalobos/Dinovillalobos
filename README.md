@@ -1,12 +1,12 @@
-### Hola, soy un Ingeniero en Computación apasionado por crear experiencias 👾
+### Hola, soy Ricardo 👋
 
-**Fullstack Developer | Game Dev | Python & AI Enthusiast**
+**Java Backend Developer Jr. | Ingeniero en Computación | Constructor de Soluciones**
 
-Soy un ingeniero enfocado en resolver problemas complejos a través del código. Mi pasión es la intersección entre el desarrollo de software robusto y la interactividad de los videojuegos.
+Soy un ingeniero enfocado en resolver problemas complejos a través del desarrollo backend. Me apasiona estructurar bases de datos eficientes, construir lógica de negocio sólida y asegurar que los sistemas funcionen de manera impecable desde los cimientos.
 
-- 🔭 **Actualmente trabajando en:** Proyectos Fullstack y prototipos en Unity.
-- 🌱 **Aprendiendo:** Profundizando en Inteligencia Artificial aplicada a entornos interactivos.
-- 🎮 **Dato curioso:** El desarrollo de videojuegos no es solo mi trabajo, es mi laboratorio personal donde experimento con nuevas lógicas y físicas.
+- 🔭 **Actualmente trabajando en:** El desarrollo de Bimmanager (Backend en Java) y mantenimiento/debugging del sistema de gestión Agenda Legal.
+- 🌱 **Construyendo:** Kengan Arena, una aplicación web integral para la generación de rutinas enfocadas en deportes de contacto y rendimiento físico..
+- 🎮 **Dato curioso:** : Fuera de la terminal, llevo una disciplina estricta como atleta híbrido combinando el gimnasio con artes marciales. Aplico la misma constancia y enfoque del entrenamiento a la hora de estructurar y refactorizar código.
 
 ---
 
